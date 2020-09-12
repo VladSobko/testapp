@@ -9,6 +9,9 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>QWERTY</p>
         <p>CHANGE</p>
+        <p>CHANGE1</p>
+        <p>CHANGE2</p>
+        <p>CHANGE3</p>
         <a
           className="App-link"
           href="https://reactjs.org"
