@@ -12,6 +12,7 @@ function App() {
         <p>CHANGE1</p>
         <p>CHANGE2</p>
         <p>CHANGE3</p>
+        <p>CHANGE from MAC</p>
         <a
           className="App-link"
           href="https://reactjs.org"
