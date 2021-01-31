@@ -4,10 +4,11 @@ import './App.css';
 
 function App() {
   return (
-    <div className="App">
+    <div className="classApp">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>QWERTY</p>
+        <p>QWERTY123</p>
+        <p>Added new data for git</p>
         <p>CHANGE</p>
         <p>CHANGE1</p>
         <p>CHANGE2</p>
